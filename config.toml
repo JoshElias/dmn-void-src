@@ -1,0 +1,6 @@
+dir_name = "void-repos"
+repo_urls = [
+	"https://github.com/void-linux/void-packages.git",
+	"https://codeberg.org/mobinmob/abyss-packages.git",
+	"https://github.com/Makrennel/hyprland-void.git",
+]
